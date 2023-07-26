@@ -6,6 +6,7 @@ plugins {
 android {
     namespace 'com.example.practical3'
     compileSdk 33
+    dataBinding true
 
     defaultConfig {
         applicationId "com.example.practical3"
